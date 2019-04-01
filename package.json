@@ -1,4 +1,5 @@
 {
+        "name": "cgb-scripts",
 	"private": true,
 	"workspaces": [
 		"packages/*"
