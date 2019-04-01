@@ -6,13 +6,9 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ahmadawais/create-guten-block.git"
+		"url": "git+https://github.com/luckyape/create-guten-block.git"
 	},
-	"author": "AhmadAwais",
-	"bugs": {
-		"url": "https://github.com/ahmadawais/create-guten-block/issues"
-	},
-	"homepage": "https://github.com/ahmadawais/create-guten-block#readme",
+	"author": "Luckyape",
 	"devDependencies": {
 		"babel-eslint": "^8.2.1",
 		"chalk": "^2.3.0",
